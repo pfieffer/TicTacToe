@@ -77,7 +77,7 @@ public class MainActivity extends AppCompatActivity {
         public void onClick(View v) {
             for(Button button : buttons) {
                 button.setText("");
-                //button.setTextColor(Color.BLACK);
+                button.setTextColor(Color.BLACK);
             }
 
             gameStatus.setText(R.string.game_button);
@@ -151,9 +151,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void changeButtonTextColor(int firstButton, int secondButton, int thirdButton) {
-        buttons[firstButton].setTextColor(Color.argb(255, 0, 255, 0));
-        buttons[secondButton].setTextColor(Color.argb(255, 0, 255, 0));
-        buttons[thirdButton].setTextColor(Color.argb(255, 0, 255, 0));
+        buttons[firstButton].setTextColor(Color.argb(255, 230, 79, 97));
+        buttons[secondButton].setTextColor(Color.argb(255, 230, 79, 97));
+        buttons[thirdButton].setTextColor(Color.argb(255, 230, 79, 97));
     }
 
 }
