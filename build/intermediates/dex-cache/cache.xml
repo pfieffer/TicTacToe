@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.android/build-cache/923d6e86e7ab9321e6494b05495cb7e71486756b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/ravi/AndroidStudioProjects/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6404b3a0ca882426fad21e6586a91fd65d5fdf81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.android/build-cache/d1bbf873b2bacc265063ed9b1793f6e0e726623e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/ravi/AndroidStudioProjects/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_23219c385c28298105fbd2f2253827f17aecc9e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.android/build-cache/de4e3088e4c0ad068de832f15ef8cfca41e38e11/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/ravi/AndroidStudioProjects/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3532d04962371765de8c53ebaf7dbf861c4547ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.android/build-cache/01a59c01242fd39127070f85d281e30b728bf356/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/ravi/AndroidStudioProjects/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7de41b75b9301f82c78359d9aa7e8cedc7a16057/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.android/build-cache/8d4ced3f74e683e6fb9326897eb09db2b23e7880/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/ravi/AndroidStudioProjects/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a28f9d52b1ec6951f837248d2781e5a6baf8baff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.android/build-cache/2e54c8581e03e852658a6ba2717da7000b36f5cb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/ravi/AndroidStudioProjects/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a151d608cf3ae8b1a541a87499bc59fb2f480108/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.android/build-cache/97ad4d4de8df056ece41de69065284e952afdf78/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/ravi/AndroidStudioProjects/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_05e4ae46f4cf44244b79c1f5c73aa366646dfb80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/AndroidStudioProjects/TicTacToe/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="ff9a68d3cb7c84673c1d42ca12d5900cf86bb1b3">
+        <dex dex="/home/ravi/AndroidStudioProjects/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_57d8142b00310b75e9af1dea6b31863e23fc804a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.android/build-cache/75cbfddbbe10f622851d337d4047dc5b9fcaa262/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/ravi/AndroidStudioProjects/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_caa8ab03f95ff27b43de2f979f425cc3b701643f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.android/build-cache/318456943c2ee38f78577f6edd829f39fff9f109/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ravi/AndroidStudioProjects/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ce189bef277307c347989ba6059debcfa1fdb78b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.android/build-cache/db46b7c43023ff2e183c41d54dbe0a350dcbfe43/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/ravi/AndroidStudioProjects/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_38f75b7c52ede3ec86199a2ade1d670c0c84af6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/ravi/AndroidStudioProjects/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_0c969a4ce7941325db1dcde90e505e8e71391666/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/AndroidStudioProjects/TicTacToe/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/ravi/AndroidStudioProjects/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7777015d4f8c66e956c12a756e74f72db7ab5ad5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/ravi/AndroidStudioProjects/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_a1b0b3bdcc2873b5be73b02cdbbab5e328ddf883/classes.dex" />
+    </item>
+
+</items>

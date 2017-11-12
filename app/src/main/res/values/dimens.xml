@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="largeText">60sp</dimen>
+    <dimen name="buttonWidth">100dp</dimen>
+    <dimen name="buttonHeight">100dp</dimen>
+    <dimen name="buttonTextSize">50sp</dimen>
+    <dimen name="gameStatusTextSize">40sp</dimen>
+</resources>
