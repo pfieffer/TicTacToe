@@ -1,6 +1,7 @@
 package np.com.ravi.tictactoe;
 
 import android.graphics.Color;
+import android.media.MediaPlayer;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -97,9 +98,13 @@ public class MainActivity extends AppCompatActivity {
                 setSymbol(button, players[currentPlayer]);
                 gameIsOver = winnerExists();
 
-                if(gameIsOver) { gameStatus.setText("Player " + players[currentPlayer] + " wins!"); return; }
+                if(gameIsOver) {
+                    playWinSound();
+                    gameStatus.setText("Player " + players[currentPlayer] + " wins!");
+                    return;
+                }
 
-                if(boardIsFull()) { gameStatus.setText("DRAW");  return; }
+                if(boardIsFull()) { gameStatus.setText("DRAW"); playDrawSound(); return; }
 
                 currentPlayer = currentPlayer ^ 1;
 
@@ -107,6 +112,8 @@ public class MainActivity extends AppCompatActivity {
             }
         }
     };
+
+
 
     private void setSymbol(Button button, String symbol) {
         button.setText(symbol);
@@ -156,4 +163,13 @@ public class MainActivity extends AppCompatActivity {
         buttons[thirdButton].setTextColor(Color.argb(255, 230, 79, 97));
     }
 
+    private void playWinSound(){
+        MediaPlayer mp = MediaPlayer.create(MainActivity.this, R.raw.win);//for sounds
+        mp.start();
+    }
+
+    private void playDrawSound() {
+        MediaPlayer mp = MediaPlayer.create(MainActivity.this, R.raw.draw);//for sounds
+        mp.start();
+    }
 }
