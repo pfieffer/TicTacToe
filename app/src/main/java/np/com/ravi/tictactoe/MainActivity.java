@@ -1,12 +1,16 @@
 package np.com.ravi.tictactoe;
 
 import android.graphics.Color;
+import android.graphics.Typeface;
 import android.media.MediaPlayer;
+import android.provider.FontRequest;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+
+import org.w3c.dom.Text;
 
 public class MainActivity extends AppCompatActivity {
     private Button button1,
@@ -26,6 +30,10 @@ public class MainActivity extends AppCompatActivity {
     private String[] players = {"X", "O"};
 
     private TextView gameStatus;
+    private TextView gameName;
+
+    Typeface typeFace;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -49,11 +57,13 @@ public class MainActivity extends AppCompatActivity {
         button8 = (Button) findViewById(R.id.button8);
         button9 = (Button) findViewById(R.id.button9);
 
+        gameName = (TextView) findViewById(R.id.gameName);
+        typeFace = Typeface.createFromAsset(getApplicationContext().getAssets(),"fonts/GochiHand-Regular.ttf");
+        gameName.setTypeface(typeFace);
+
         gameButton = (Button) findViewById(R.id.gameButton);
 
         gameStatus = (TextView) findViewById(R.id.gameStatus);
-
-        //ticTacTocLogo = (ImageView) findViewById(R.id.ticTacTocLogo);
 
         buttons[0] = button1;
         buttons[1] = button2;
